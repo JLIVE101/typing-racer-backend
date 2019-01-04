@@ -1,0 +1,19 @@
+{
+  "name": "typing-racer-backend",
+  "version": "1.0.0",
+  "description": "backend for typing racer",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JLIVE101/typing-racer-backend.git"
+  },
+  "author": "Joshua Williams",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JLIVE101/typing-racer-backend/issues"
+  },
+  "homepage": "https://github.com/JLIVE101/typing-racer-backend#readme"
+}
